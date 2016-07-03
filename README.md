@@ -17,5 +17,8 @@ to commit changes on all files:
 git commit -a
 
 to push the corresponding branch to the github
-git bush origin "newbranch"
+git push origin "newbranch"
+
+To push the modifications to github master.
+git push
 
